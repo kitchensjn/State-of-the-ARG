@@ -12,7 +12,7 @@ classes: wide
 
 **STATE OF THE <span style="color:#1c75bc;">ARG</span>** is an online seminar series on advances in computational population genomics, with a particular focus on Ancestral Recombination Graphs (ARGs). The series brings together researchers developing new computational and statistical methods and applying them to questions in population genetics, statistical genetics, evolutionary biology, and related fields.
 
-Seminars take place on **Wednesdays at 08:30 PT / 11:30 ET / 16:30 UK time** during the academic year, from roughly September through June. Our next seminar will be...
+Seminars take place on **Wednesdays at 08:30 PT / 11:30 ET / 16:30 UK time** during the academic year, from roughly September through June. The next public seminar will be...
 
 {% assign sorted_seminars = site.data.seminars | sort: "date" %}
 {% assign today = "now" | date: "%Y%m%d" | plus: 0 %}

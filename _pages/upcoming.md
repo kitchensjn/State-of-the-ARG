@@ -6,7 +6,7 @@ author_profile: false
 classes: wide
 ---
 
-Seminars take place on **Wednesdays at 08:30 PT / 11:30 ET / 16:30 UK time** during the academic year, from roughly September through June. Below is the full schedule for upcoming seminars.
+Seminars take place on **Wednesdays at 08:30 PT / 11:30 ET / 16:30 UK time** during the academic year, from roughly September through June. Below is the full schedule of upcoming talks.
 
 If you would like to present your work in a future public **STATE OF THE <span style="color:#1c75bc;">ARG</span>** seminar, please complete this [Google Form](https://docs.google.com/forms/d/e/1FAIpQLSercPdrk5XhzL8M5shcO3F2AKcrLVv9OTpc7nbnynP0_cjQbw/viewform?usp=dialog). We welcome talks on methodological and empirical advances related to ancestral recombination graphs, population genomics, statistical genetics, evolutionary genetics, and related topics.
 
